@@ -1,2 +1,1 @@
-# taller de Github
-prueba de repositorio 
+Primer ejercicio de pr ctica de este repositorio
